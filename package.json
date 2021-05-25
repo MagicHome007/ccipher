@@ -1,5 +1,5 @@
 {
-  "name": "ccipher",
+  "name": "@MagicHome_007/ccipher",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+  "repository": {
+    "url": "git://https://github.com/MagicHome007/ccipher.git."
+  },
   "author": "",
   "license": "ISC"
 }
